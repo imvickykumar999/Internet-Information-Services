@@ -1,0 +1,28 @@
+
+/* C:\inetpub\wwwroot\MyTestWebsite\styles.css */
+
+* {
+    font-family: sans-serif;
+ }
+  
+ .nav {
+    border-radius: 0px !important;
+    color: white;
+ }
+  
+ .link {
+    margin-right: 10px;
+    font-size: 12pt;
+ }
+  
+ .brand {
+    margin-left: 20px;
+    margin-right: 40px;
+    font-size: 18pt;
+ }
+  
+ .container {
+    text-align: center;
+    padding: 40px 20px;
+ }
+ 
